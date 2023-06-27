@@ -1,4 +1,4 @@
-### <div align="center">I'm Andres, a full-time full-stack freelance developer 👨‍💻</div>  
+### <div align="center">I'm Andres, a full-time full-stack developer 👨‍💻</div>  
   
 
 <div align="center">
